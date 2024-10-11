@@ -1,1 +1,4 @@
 https://medium.com/@Has_San/building-an-nft-platform-with-react-b8ef11de2497
+
+web3.js is installed by this: npm install web3 react-bootstrap axios
+
